@@ -131,3 +131,7 @@ official implementation use SGD and StepLR
 ### reference
 1. https://github.com/liuheng92/tensorflow_PSENet
 2. https://github.com/whai362/PSENet
+
+### 李剑备注：
+1.https://zhuanlan.zhihu.com/p/63074253?utm_source=wechat_session&utm_medium=social&utm_oi=589576447262199808&from=timeline&s_r=0 
+【论文翻译】2019PSEnet
